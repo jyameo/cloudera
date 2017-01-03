@@ -1,2 +1,1 @@
-# cloudera
-Cloudera Developer Training
+# Cloudera Developer Training For Apache Spark
